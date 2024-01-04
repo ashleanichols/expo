@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ashleanichols/expo is built on the following main stack:
+
 - [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - [Amplitude](https://amplitude.com/) – Mobile Analytics
@@ -65,11 +66,13 @@ ashleanichols/expo is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ashleanichols/expo is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - <img width='25' height='25' src='https://img.stackshare.io/service/640/default_51e537c5ed098d3e9aba0eb94299e4575a556aec.jpg' alt='Amplitude'/> [Amplitude](https://amplitude.com/) – Mobile Analytics
@@ -133,14 +136,15 @@ ashleanichols/expo is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ashleanichols/expo](https://github.com/ashleanichols/expo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|248<br/>Tools used|11/09/23 <br/>Report generated|
+|249<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -736,9 +740,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (180)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (181)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (159)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (160)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -790,6 +794,7 @@ Full tech stack [here](/techstack.md)
 |[base64-js](https://www.npmjs.com/base64-js)|v1.3.1|11/23/20|Eric Samelson |MIT|N/A|
 |[blueimp-md5](https://www.npmjs.com/blueimp-md5)|v2.18.0|05/27/19|Stanisław Chmiela |MIT|N/A|
 |[body-parser](https://www.npmjs.com/body-parser)|v1.19.0|04/28/21|Tomasz Sapeta |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|05/07/21|Tomasz Sapeta |MIT|N/A|
 |[commander](https://www.npmjs.com/commander)|v2.20.3|10/20/18|James Ide |MIT|N/A|
 |[compare-versions](https://www.npmjs.com/compare-versions)|v3.6.0|11/23/20|Eric Samelson |MIT|N/A|
 |[concat-stream](https://www.npmjs.com/concat-stream)|v1.6.2|12/21/20|Tomasz Sapeta |MIT|N/A|
@@ -843,7 +848,7 @@ Full tech stack [here](/techstack.md)
 |[jest-watch-typeahead](https://www.npmjs.com/jest-watch-typeahead)|v0.5.0|05/25/20|Stanisław Chmiela |MIT|N/A|
 |[json5](https://www.npmjs.com/json5)|v1.0.1|09/28/18|James Ide |MIT|[CVE-2022-46175](https://github.com/advisories/GHSA-9c47-m6qq-7p4h) (High)|
 |[jsondiffpatch](https://www.npmjs.com/jsondiffpatch)|v0.3.11|04/28/21|Tomasz Sapeta |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v1.1.0|12/21/20|Tomasz Sapeta |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)|
+|[marked](https://www.npmjs.com/marked)|v1.1.0|12/21/20|Tomasz Sapeta |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)|
 |[md5-file](https://www.npmjs.com/md5-file)|v3.2.3|03/27/20|Eric Samelson |MIT|N/A|
 |[metro-react-native-babel-preset](https://www.npmjs.com/metro-react-native-babel-preset)|v0.59.0|08/13/20|Evan Bacon |MIT|N/A|
 |[minimatch](https://www.npmjs.com/minimatch)|v3.0.4|01/09/21|Tomasz Sapeta |ISC|[CVE-2022-3517](https://github.com/advisories/GHSA-f8q6-p94x-37v3) (High)|
@@ -886,7 +891,7 @@ Full tech stack [here](/techstack.md)
 |[serve](https://www.npmjs.com/serve)|v11.3.2|05/13/20|James Ide |MIT|N/A|
 |[server-destroy](https://www.npmjs.com/server-destroy)|v1.0.1|12/21/20|Tomasz Sapeta |ISC|N/A|
 |[sha1](https://www.npmjs.com/sha1)|v1.1.1|05/19/21|Will Schurman |BSD-3-Clause|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.28.1|05/05/21|Brent Vatne |Apache-2.0|[CVE-2022-29256](https://github.com/advisories/GHSA-gp95-ppv5-3jc5) (Moderate)|
+|[sharp](https://www.npmjs.com/sharp)|v0.28.1|05/05/21|Brent Vatne |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)<br/>[CVE-2022-29256](https://github.com/advisories/GHSA-gp95-ppv5-3jc5) (Moderate)|
 |[source-map-support](https://www.npmjs.com/source-map-support)|v0.5.16|12/21/20|Tomasz Sapeta |MIT|N/A|
 |[strip-ansi](https://www.npmjs.com/strip-ansi)|v4.0.0|12/21/20|Tomasz Sapeta |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|v4.4.6|09/18/18|Exponent GitHub Bot |ISC|[CVE-2021-37712](https://github.com/advisories/GHSA-qq89-hq3f-393p) (High)<br/>[CVE-2021-37713](https://github.com/advisories/GHSA-5955-9wpr-37jh) (High)<br/>[CVE-2021-32803](https://github.com/advisories/GHSA-r628-mhmh-qjhw) (High)<br/>[CVE-2021-37701](https://github.com/advisories/GHSA-9r2w-394v-53qc) (High)<br/>[CVE-2021-32804](https://github.com/advisories/GHSA-3jfq-g458-7qm9) (High)|
@@ -944,4 +949,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
